@@ -1,0 +1,13 @@
+.curved-div-bottom{
+    background-color: #8b003f;
+    width: 100%;
+}
+
+.txt-h1{
+    color: white;
+    position: relative;
+    left: 25rem;
+    top: 7rem;
+    font-family:  'sans-serif';
+    text-transform: uppercase;
+}
